@@ -5,4 +5,4 @@ This is the example code used in the *iOS 8 visual effects crash course* written
 
 This tutorial will give you a crash course on giving your iOS 8 apps some added polish with UIBlurEffect, UIVibrancyEffect and UIVisualEffectView. The app we'll be building to walk through these visual effects pays homage to one of my favorite creative professionals, Tim Burton.
 
-![iOS 8 Visual Effects Example App][http://www.binpress.com/images/uploads/39055/ios-8-visual-effects.png]
+![iOS 8 Visual Effects Example App](http://www.binpress.com/images/uploads/39055/ios-8-visual-effects.png)
